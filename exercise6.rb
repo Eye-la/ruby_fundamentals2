@@ -9,12 +9,6 @@ def list(grocery)
   puts "Total number of items: #{grocery.length}"
 end
 
-# def remove(grocery)
-#   grocery.each {|x| x.slice! "*"}
-# end
-
-# grocery = ["mango", "apple", "kale", "salmon", "banana"]
-
 #1. Initial list
 
 list(grocery)
